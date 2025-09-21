@@ -23,6 +23,7 @@ $$
   z = z_0 + c t
 \end{cases}
 $$
+
 Where $(x_0, y_0, z_0)$ is a point on the line and $(a, b, c)$ are the components of the direction vector.
 
 ---
